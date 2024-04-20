@@ -20,3 +20,11 @@ poetry run python ./myblock1/current_price.py
 // Blockchain Project
 1. poetry install  or python -m poetry install ( python module ) 
 to run: poetry run python blockchain\server.py in blockchain folder
+
+
+// SOLIDITY
+Download ganache (local ethereum node)
+Copy contract address
+Copy account address
+Copy private key
+paste to remix
